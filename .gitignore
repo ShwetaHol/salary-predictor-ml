@@ -1,0 +1,15 @@
+# Model files
+*.pkl
+
+# Old script
+salary-predictor.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
